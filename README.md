@@ -1,3 +1,10 @@
-# TokyoSelfbot
+# Tokyo Selfbot🎁
 A discord selfbot created by me under an hour 😅
-https://cdn.discordapp.com/avatars/906779145407713310/79696eb60882c01416ccf55658957358.webp?size=80
+
+# Setup
+- Install python.
+- Download/Extract the file.
+- Open CMD and type : pip install -r requirements.txt
+- Input your discord token in the code
+- Open CMD again and type : python selfbot.py
+- Enjoy
