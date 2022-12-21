@@ -1,4 +1,4 @@
-# Tokyo Selfbot🎁
+# 🎁 Tokyo Selfbot 🎁
 A discord selfbot created by me under an hour 😅
 
 # Setup
