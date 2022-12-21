@@ -9,7 +9,6 @@ import threading
 import datetime
 import json
 import aiohttp
-import selfbot-api22
 import io
 from colored import fg
 p = fg('#5620db')
@@ -18,6 +17,7 @@ from colorama import Fore
 import time
 import urllib
  
+os.system('pip install -r requirements.txt')
 os.system('cls' if os.name == 'nt' else 'clear') 
 
 token = ""
