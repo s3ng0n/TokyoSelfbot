@@ -7,7 +7,8 @@ A discord selfbot created by me under an hour 😅
 - Open CMD and type : pip install -r requirements.txt
 - Input your discord token in the code
 - Open CMD again and type : python selfbot.py
-- Enjoy
+- Done!
+- *More features coming soon!*
 
 # Showcase
 ![image](https://user-images.githubusercontent.com/121040605/208889166-26d650db-e60a-4d7f-9fba-dff2744a7c5c.png)
