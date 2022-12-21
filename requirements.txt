@@ -1,0 +1,9 @@
+discord==1.7.3
+asyncio 
+selfbot-api22
+requests
+threading
+datetime
+aiohttp
+io
+colored
